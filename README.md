@@ -17,13 +17,13 @@ Sales Data: The primary dataset used for this analysis is the "Adidas _Sales_Dat
 
 ### Tools
 
-- Excel Data  [Download here](https://excel.cloud.microsoft/Adidas-Excel-Dashboard-copy.xlsx)
+- Excel Data  [Download here](https://1drv.ms/x/c/d77f8c2d11b9b74a/EavZlOBcaG9FqnLxWQdPInQBlTOnT85k1DraQ7Dg0f5j0g?e=SEJ6Dd)
 - Excel Data Cleaning and Creating Reports
 
 
 ### Finding 
 
-Customer Satisfaction (42%) is a concern and should be prioritized for improvement.
-Despite high sales, profit margins are low (R647 on R4,550 sales = ~14% profit margin).
-Focus on improving underperforming months (e.g., March and May).
-Consider analyzing customer feedback to boost satisfaction and loyalty.
+- Customer Satisfaction (42%) is a concern and should be prioritized for improvement.
+- Despite high sales, profit margins are low (R647 on R4,550 sales = ~14% profit margin).
+- Focus on improving underperforming months (e.g., March and May).
+- Consider analyzing customer feedback to boost satisfaction and loyalty.
