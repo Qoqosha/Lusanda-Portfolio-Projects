@@ -84,7 +84,7 @@ Analyzed real estate rental pricing trends using a Tableau dashboard, with focus
 ![Screenshot 2024-11-21 at 15 15 12](https://github.com/user-attachments/assets/02d1f1f9-1191-44c7-9728-c379e2f09b8a)
 
 
-Key Insights:
+### Key Insights
 
 - Price vs. Bedrooms: Average rental price increases proportionally with the number of bedrooms, ranging from $96 for 1-bedroom units to $585 for 6-bedroom units.
 - Inventory Distribution: One-bedroom listings dominate the market (1,811 listings), while larger properties (5–6 bedrooms) are rare.
@@ -92,11 +92,11 @@ Key Insights:
 - Revenue Analysis: Annual revenue steadily increased throughout 2016, with noticeable growth early in the year and a strong finish in Q4.
 
 
-###Tools Used
+### Tools Used
 
 Tableau for interactive data visualization and geographic mapping.
 
-###Impact
+### Impact
 
 Provided actionable insights for pricing strategy, inventory focus, and regional investment opportunities.
 
