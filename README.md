@@ -14,7 +14,7 @@ This dashboard provides a year-long summary of Adidas's sales performance in 202
 
 
 
-### Data Sources
+
 
 Sales Data: The primary dataset used for this analysis is the "Adidas _Sales_Data.xlsx" file, containing detailed information about each sales made by the company
 
@@ -108,3 +108,15 @@ Provided actionable insights for pricing strategy, inventory focus, and regional
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
 ![Netflix logo ](https://github.com/Qoqosha/Lusanda-Portfolio-Projects/blob/main/logo.png)
+
+
+### Key Insight
+
+- Analyze the distribution of content types (movies vs TV shows).
+- Identify the most common ratings for movies and TV shows.
+- List and analyze content based on release years, countries, and durations.
+- Explore and categorize content based on specific criteria and keywords.
+
+### Data Sources  
+
+Dataset Link [Movie Data Link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
