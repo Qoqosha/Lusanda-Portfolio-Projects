@@ -105,4 +105,4 @@ Provided actionable insights for pricing strategy, inventory focus, and regional
 
 ### Project Overview
 
-![Netflix logo ](https://github.com/user-attachments/assets/7d31f81e-f4d5-4fed-a4e5-593d951f7ab5)
+![Netflix logo ](https://github.com/Qoqosha/Lusanda-Portfolio-Projects/blob/main/logo.png)
