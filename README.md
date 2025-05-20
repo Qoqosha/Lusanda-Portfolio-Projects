@@ -110,7 +110,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 ![Netflix logo ](https://github.com/Qoqosha/Lusanda-Portfolio-Projects/blob/main/logo.png)
 
 
-### Key Insight
+### Objectives
 
 - Analyze the distribution of content types (movies vs TV shows).
 - Identify the most common ratings for movies and TV shows.
@@ -120,3 +120,5 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 ### Data Sources  
 
 Dataset Link [Movie Data Link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+
+
