@@ -100,3 +100,9 @@ Tableau for interactive data visualization and geographic mapping.
 
 Provided actionable insights for pricing strategy, inventory focus, and regional investment opportunities.
 
+
+## 4. Netflix Movies and TV Shows Data Analysis using SQL
+
+### Project Overview
+
+![Netflix logo ](https://github.com/user-attachments/assets/7d31f81e-f4d5-4fed-a4e5-593d951f7ab5)
