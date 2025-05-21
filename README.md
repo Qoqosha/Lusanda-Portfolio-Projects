@@ -105,7 +105,7 @@ Provided actionable insights for pricing strategy, inventory focus, and regional
 
 ### Project Overview
 
-This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. 
 
 ![Netflix logo ](https://github.com/Qoqosha/Lusanda-Portfolio-Projects/blob/main/logo.png)
 
@@ -121,6 +121,9 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 Dataset Link [Movie Data Link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
-###Schema
+###Findings and Conclusion
 
-
+- Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
+- ommon Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
+- Geographical Insights: The top countries and the average content releases by India highlight regional content distribution.
+- ontent Categorization: Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
