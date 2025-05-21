@@ -121,7 +121,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 Dataset Link [Movie Data Link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
-###Findings and Conclusion
+### Findings and Conclusion
 
 - Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 - ommon Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
