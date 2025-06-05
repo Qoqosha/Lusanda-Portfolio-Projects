@@ -1,11 +1,11 @@
 # My Data Analytics Portfolio Projects
 
-## 1. Adidas sales analysis in Excel
+## 1. Coffee Shop Sales Dashboard in Excel
 
 ### Project Overview
 
 
-This dashboard provides a year-long summary of Adidas's sales performance in 2023 across different months, quarters, and regions within South Africa. It focuses on sales, profit, customer count, satisfaction, and monthly performance vs. targets.
+This project provide a visual and interactive summary of sales performance across different time periods, locations, product categories, and customer behaviors for a coffee shop business.
 
 
 
