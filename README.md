@@ -9,41 +9,30 @@ This project provide a visual and interactive summary of sales performance acros
 
 
 
-![adidas sales](https://github.com/user-attachments/assets/e3c20fc8-80ee-468a-b47b-d6c37ced0edb)
+![coffee shop sales](https://github.com/Qoqosha/Lusanda-Portfolio-Projects/blob/main/CoffeeShop.jpg)
 
-
-
-
-
-
-Sales Data: The primary dataset used for this analysis is the "Adidas _Sales_Data.xlsx" file, containing detailed information about each sales made by the company
-
-
-### Tools
-
-- Excel Data  [Download here](https://1drv.ms/x/c/d77f8c2d11b9b74a/EavZlOBcaG9FqnLxWQdPInQBlTOnT85k1DraQ7Dg0f5j0g?e=SEJ6Dd)
-- Excel Data Cleaning and Creating Reports
 
 ### Findings
 
-- Customer Satisfaction Rate: 42%, which is relatively low and may indicate a need for improvement in service or product quality.
-- There is a general upward trend in customer numbers compared to last year.
-- Significant growth is visible from August to October, peaking around October.
-- Customer numbers for most months are still below last year’s figures, except in Oct–Dec where they slightly converge.
-- The sales target is consistent across months (~486), shown in blue.
-- Peak performance occurred in August (490), the only month exceeding the target
+- Revenue Growth: Monthly revenue increased steadily from R26,543 in January to R54,446 in June, indicating healthy business growth.
+- Peak Business Times Most active day: Monday
+- Busiest hours: 7–10 AM, with a peak at 9 AM, aligning with morning coffee demand.
+- Top-Selling Categories: Coffee (18,204 transactions) and Tea (13,912 transactions) dominate sales.
+  Bakery items follow as the third most popular category.
+- Best-Performing Product: Barista Espresso with 5,320 transactions and R31,051 in revenue.
+
 
 
 ### Recommendations
 
-- Customer Satisfaction (42%) is a concern and should be prioritized for improvement.
-- Despite high sales, profit margins are low (R647 on R4,550 sales = ~14% profit margin).
-- Focus on improving underperforming months (e.g., March and May).
-- Consider analyzing customer feedback to boost satisfaction and loyalty.
+- Capitalize on strong weekday and morning traffic with targeted promotions.
+- Improve weekend and afternoon engagement through specials or events.
+- Continue focusing on high-performing beverages, with potential bundling of bakery items.
 
 
+### Tools Used:
 
-
+Dashboard analysis, visual data interpretation
 
 
 ## 2. Data Careers Insights Dashboard in Power BI
